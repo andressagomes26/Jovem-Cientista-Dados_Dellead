@@ -2,7 +2,7 @@
 Projeto Jovem Cientista de Dados com quatro cursos ministrados pela Dell Lead 💻📈💙
 <p align="center"> 
 
-<img src="https://user-images.githubusercontent.com/60404990/136980480-a8ba048d-b8d8-4720-bdf1-e18447e9a129.jpeg"> 
+<img src="https://user-images.githubusercontent.com/60404990/136980790-55dd70df-7335-45cd-a83a-ae56c890ab1c.jpeg"> 
 </p>
 
 <h1 align="center">  Jovem Cientista de Dados | Dell Lead </h1>

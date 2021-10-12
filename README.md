@@ -1,5 +1,3 @@
-# Jovem-Cientista-Dados_Dellead
-Projeto Jovem Cientista de Dados com quatro cursos ministrados pela Dell Lead 💻📈💙
 <p align="center"> 
 
 <img src="https://user-images.githubusercontent.com/60404990/136980790-55dd70df-7335-45cd-a83a-ae56c890ab1c.jpeg"> 
@@ -7,7 +5,7 @@ Projeto Jovem Cientista de Dados com quatro cursos ministrados pela Dell Lead �
 
 <h1 align="center">  Jovem Cientista de Dados | Dell Lead </h1>
 
-O LaunchBase é um treinamento no formato de bootcamp que tem o objetivo de abordar as ferramentas e conceitos mais modernos de desenvolvimento Web. Desse modo, durante o curso são propostos diversos desafios que serão aqui resolvidos.
+O projeto Jovem Cientista de Dados com quatro cursos ministrados pela Dell Lead 💻📈💙
 
 ## Tecnologias 🚀🚀
 

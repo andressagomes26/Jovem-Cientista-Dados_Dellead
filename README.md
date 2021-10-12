@@ -1,11 +1,11 @@
+<h1 align="center">  Jovem Cientista de Dados | Dell Lead </h1>
+
 <p align="center"> 
 
 <img src="https://user-images.githubusercontent.com/60404990/136980790-55dd70df-7335-45cd-a83a-ae56c890ab1c.jpeg"> 
 </p>
 
-<h1 align="center">  Jovem Cientista de Dados | Dell Lead </h1>
-
-O projeto Jovem Cientista de Dados com quatro cursos ministrados pela Dell Lead 💻📈💙
+O projeto Jovem Cientista de Dados ofertado pela Dell Lead é uma trilha de aprendizagem composta por quarto cursos que são Introdução a Lógica de Programação em Python, Python para Machine Learning, Visualização de Dados e Introdução a Machine Learning.💻📈💙
 
 ## Tecnologias 🚀🚀
 

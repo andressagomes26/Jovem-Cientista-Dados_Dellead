@@ -17,6 +17,14 @@ O projeto Jovem Cientista de Dados ofertado pela Dell Lead é uma trilha de apre
  ### Curso Introdução à Lógica de Programação em Python
  
   - **Oficina aula 1-2:** [Atribuindo valores a variáveis corretamente]()
+  - **Oficina aula 1-2:** [Atribuindo valores a variáveis corretamente]()
+  - **Oficina aula 1-2:** [Atribuindo valores a variáveis corretamente]()
+  - **Oficina aula 1-2:** [Atribuindo valores a variáveis corretamente]()
+  - **Oficina aula 1-2:** [Atribuindo valores a variáveis corretamente]()
+  - **Oficina aula 1-2:** [Atribuindo valores a variáveis corretamente]()
+  - **Oficina aula 1-2:** [Atribuindo valores a variáveis corretamente]()
+  - **Oficina aula 1-2:** [Atribuindo valores a variáveis corretamente]()
+  - 
  
 ## Status do Projeto
 - As resoluções dos desafios encontram-se em desenvolvimento.
